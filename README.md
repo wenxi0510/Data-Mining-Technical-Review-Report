@@ -4,3 +4,7 @@ This project conducts a technical review of similarity search algorithms, focusi
 
 Approximate search methods, particularly HNSW and ANNOY, achieved accuracy with substantially lower query times, making them more practical for large-scale applications. Tree-based algorithms such as KD-Tree and Ball Tree excel in low-dimensional data, while LSH had varying performances, depending on the nature of the dataset.  The study concludes that algorithm selection should be guided by dataset dimensionality and application requirements to achieve an optimal balance between accuracy and efficiency.
 
+Worked on this project with the following members:
+1. Lim Sin Pei
+2. Kieran Voo E Kai
+3. Clarabelle Chua Jia Yi 
